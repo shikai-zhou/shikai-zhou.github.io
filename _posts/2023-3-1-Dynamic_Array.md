@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Structures: Array and Linked list
+title: "Data Structures : Linked Lists and Dynamic Arrays"
 subtitle: 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
